@@ -2,10 +2,8 @@
 #
 # ## Topics
 #
-# * functions
-# * strings
-# * default parameter values
-#
+24241
+
 # ## Hints
 #
 # When you make the second `repeat` test pass, you might break the **first**
